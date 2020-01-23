@@ -1,0 +1,28 @@
+{
+  "name": "bookListAPIs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sean2411/bookListAPIs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sean2411/bookListAPIs/issues"
+  },
+  "homepage": "https://github.com/Sean2411/bookListAPIs#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "serve": "^11.3.0",
+    "shortid": "^2.2.15",
+    "xml2json": "^0.12.0"
+  }
+}
